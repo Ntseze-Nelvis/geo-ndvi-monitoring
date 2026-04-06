@@ -1,0 +1,9 @@
+pystac-client
+planetary-computer
+rasterio
+matplotlib
+numpy
+fastapi
+uvicorn
+boto3
+python-dotenv
